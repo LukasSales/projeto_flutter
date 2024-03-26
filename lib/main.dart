@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      initialRoute: 'tela_02', // Defina a rota inicial para TelaLogin
+      initialRoute: 'tela_01', // Defina a rota inicial para TelaLogin
       routes: {
         'tela_01': (context) => TelaLogin(), // Rota para TelaLogin
         'tela_02': (context) => TelaPerfil(), // Rota para Tela02
