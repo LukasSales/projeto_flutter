@@ -2,6 +2,8 @@
 
 Projeto em Flutter para criar aplicativo
 
+Usei como referência de tela o emulador Pixel 3a API 30.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
