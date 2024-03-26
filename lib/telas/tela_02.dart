@@ -314,7 +314,7 @@ class _TelaPerfilState extends State<TelaPerfil> {
                                             ),
                                           ),
                                           const SizedBox(
-                                            height: 10,
+                                            height: 18,
                                           ),
                                           const Text(
                                             'Clique aqui para anexar um arquivo',
